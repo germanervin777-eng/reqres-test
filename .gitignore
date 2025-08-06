@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Pycache и байт-код
+__pycache__/
+*.pyc
+
+# Логи и отчеты
+logs/
+reports/
+*.log
+
+# IDE
+.idea/
+.vscode/
